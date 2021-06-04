@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Never Bored</string>
+    <string name="idea">Idea</string>
+    <string name="get_idea">GET IDEA</string>
+    <string name="asdf">-</string>
+    <string name="never_bored">Never bored</string>
 </resources>
