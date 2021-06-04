@@ -8,6 +8,6 @@ import retrofit2.http.GET
 interface BoredAPI {
 
     @GET("activity")
-    fun getActivityDetails():Call<Activity>
+    suspend fun getActivityDetails():Response<Activity>
 
 }

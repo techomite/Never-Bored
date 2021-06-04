@@ -17,7 +17,7 @@ data class Activity(
     @Json(name = "participants")
     val participants: Int,
     @Json(name = "price")
-    val price: Int,
+    val price: Float,
     @Json(name = "type")
     val type: String
 )
