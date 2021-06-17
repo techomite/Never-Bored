@@ -1,6 +1,19 @@
 # Never-Bored
 You are one button click away from boredom. If you are bored then this app is for you. Click on the button and get suggestions for activities. Keep on clicking the button until you find the activity which is suitable for you. There are activities which can be done alone or with friends and family. 
 
+Libraries Used:
+
+ViewModel   -  https://developer.android.com/jetpack/androidx/releases/lifecycle
+
+Coroutines  -  https://github.com/Kotlin/kotlinx.coroutines
+
+LiveData    -  https://developer.android.com/jetpack/androidx/releases/lifecycle
+
+retrofit    -  https://github.com/square/retrofit
+
+Moshi       -  https://github.com/square/moshi
+
+
 
 # Screenshots
 
